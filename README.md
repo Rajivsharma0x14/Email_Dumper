@@ -1,6 +1,6 @@
 ## Email-Dumper
 
-###This tool is used to gather emails from the website
+### This tool is used to gather emails from the website
 ##> Author Rajiv Sharma 
 
 `$ sudo apt-get install python3-pip`<br>
@@ -10,4 +10,4 @@
 
 `$python3 email-dumper.py`
 
-## **Use this tool for Educational Puropse only**
+## **Use this tool for Educational Purpose only**
